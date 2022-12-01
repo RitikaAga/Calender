@@ -75,12 +75,6 @@ background-image: linear-gradient(90deg, #1da6e6 0%, #213de0 55%, #5810b6 100%);
     text-align: center;
     width: 14.28%;
 }
-.weekdays div:hover{
-    transform: skew(-25deg);
-        color: #f70246ed;
-        font-size: 22px;
-        font-weight: bold;
-}
 
 .days div {
     padding: 10px 0;
